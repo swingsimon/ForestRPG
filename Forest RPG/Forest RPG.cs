@@ -70,7 +70,7 @@ class ForestOfFates
 
                     if (wentLeft4)
                     {
-                        Console.WriteLine("The scroll reveals forbidden knowledge of the dungeon below.");
+                        Console.WriteLine("The scroll reveals forbidden knowledge of the forest, increasing your knowledge.");
                         Console.WriteLine("Ending B: Wisdom");
                     }
                     else
@@ -226,4 +226,5 @@ class ForestOfFates
         // Outro
         Console.WriteLine("Thanks for playing Forest of Fates.");
     }
+
 }
